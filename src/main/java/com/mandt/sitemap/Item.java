@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  * This class represents a sitemap item.
- * @author Christopher
+ * @author Christopher Supnig | http://supnig.com
  *
  */
 public class Item {

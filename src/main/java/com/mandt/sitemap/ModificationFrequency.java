@@ -1,7 +1,7 @@
 package com.mandt.sitemap;
 /**
  * Enumeration of possible modification frequencies.
- * @author Christopher
+ * @author Christopher Supnig | http://supnig.com
  *
  */
 public enum ModificationFrequency {
